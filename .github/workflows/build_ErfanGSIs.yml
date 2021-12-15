@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://lineageos.tetaneutral.net/full/monet/20211214/lineage-18.1-20211214-nightly-monet-signed.zip
   ROM_NAME: LineageOS
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
