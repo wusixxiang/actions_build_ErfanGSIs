@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://objects.githubusercontent.com/github-production-release-asset-2e65be/406501074/0674e243-6b37-4481-8d5a-c01abfe5f0a5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211215%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211215T070319Z&X-Amz-Expires=300&X-Amz-Signature=b1f0517fb031fd49ee3f087a886585a2a3e354202afd482e1c413df4c3a11c2a&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=406501074&response-content-disposition=attachment%3B%20filename%3DdotOS-R-v5.2.1-violet-GAPPS-20211124-0612.zip&response-content-type=application%2Foctet-stream
+  ROM_NAME: dotOS
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
