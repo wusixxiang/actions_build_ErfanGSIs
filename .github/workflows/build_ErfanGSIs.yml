@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://lineageos.tetaneutral.net/full/monet/20211214/lineage-18.1-20211214-nightly-monet-signed.zip
-  ROM_NAME: LineageOS
+  ROM_URL: https://chuangtzu.ftp.acc.umu.se/mirror/lineageos/full/apollon/20220115/lineage-18.1-20220115-nightly-apollon-signed.zip
+  ROM_NAME: Generic
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
